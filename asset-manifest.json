@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/FSAD-BRS/static/css/main.f855e6bc.css",
-    "main.js": "/FSAD-BRS/static/js/main.dd8196f2.js",
+    "main.js": "/FSAD-BRS/static/js/main.e55a5d3b.js",
     "static/js/453.183908db.chunk.js": "/FSAD-BRS/static/js/453.183908db.chunk.js",
     "static/media/logo.svg": "/FSAD-BRS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/FSAD-BRS/index.html",
     "main.f855e6bc.css.map": "/FSAD-BRS/static/css/main.f855e6bc.css.map",
-    "main.dd8196f2.js.map": "/FSAD-BRS/static/js/main.dd8196f2.js.map",
+    "main.e55a5d3b.js.map": "/FSAD-BRS/static/js/main.e55a5d3b.js.map",
     "453.183908db.chunk.js.map": "/FSAD-BRS/static/js/453.183908db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.dd8196f2.js"
+    "static/js/main.e55a5d3b.js"
   ]
 }
